@@ -7,6 +7,11 @@
 }
 
 .fa-solid:hover {
-    color: red;
-    border-color: red;
+    color: #bb2d3b;
+    border-color: #bb2d3b;
+}
+
+td:nth-child(2),
+th:nth-child(2) {
+    display: none;
 }
