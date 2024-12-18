@@ -1,0 +1,12 @@
+.fa-solid {
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 2px;
+    color: gray;
+    text-align: center;
+}
+
+.fa-solid:hover {
+    color: red;
+    border-color: red;
+}
